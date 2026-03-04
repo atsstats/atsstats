@@ -4,7 +4,7 @@ My name is atsstats and I'm a prior Infantryman and now a Field Engineer in Ariz
 
 I am learning programming for a personal project working with RoIP mesh networks. 
 
-I have experience with Python, JavaScript, and some C. 
+I have experience with Python, JavaScript, HTML, and a little bit of C. 
 
 
 My hobbies include:
